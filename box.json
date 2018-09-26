@@ -3,10 +3,10 @@
     "version":"v3",
     "author":"Marco Ortiz",
     "homepage":"",
-    "slug":"v3",
+    "slug":"module-v3",
     "shortDescription":"myApp version 1",
     "type":"modules",
-    "keywords":"ColdBox,REST,module,v3",
+    "keywords":"ColdBox,REST,module,module-v3",
     "private":true,
     "ignore":[
         "**/.*",
