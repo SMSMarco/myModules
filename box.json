@@ -1,0 +1,16 @@
+{
+    "name":"myApp version 1",
+    "version":"v1",
+    "author":"Marco Ortiz",
+    "homepage":"",
+    "slug":"v1",
+    "shortDescription":"myApp version 1",
+    "type":"modules",
+    "keywords":"ColdBox,REST,module,v1",
+    "private":true,
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ]
+}
