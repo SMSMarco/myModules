@@ -1,12 +1,12 @@
 {
     "name":"myApp version 1",
-    "version":"v2",
+    "version":"v3",
     "author":"Marco Ortiz",
     "homepage":"",
-    "slug":"v2",
+    "slug":"v3",
     "shortDescription":"myApp version 1",
     "type":"modules",
-    "keywords":"ColdBox,REST,module,v2",
+    "keywords":"ColdBox,REST,module,v3",
     "private":true,
     "ignore":[
         "**/.*",

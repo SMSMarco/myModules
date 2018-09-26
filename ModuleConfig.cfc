@@ -1,7 +1,7 @@
 component {
 
 	// Module Properties
-	this.title 				= "v2";
+	this.title 				= "v3";
 	this.author 			= "";
 	this.webURL 			= "";
 	this.description 		= "";
@@ -11,11 +11,11 @@ component {
 	// If true, looks for layouts in the parent first, if not found, then in module. Else vice-versa
 	this.layoutParentLookup = true;
 	// Module Entry Point
-	this.entryPoint			= "v2";
+	this.entryPoint			= "v3";
 	// Model Namespace
-	this.modelNamespace		= "v2";
+	this.modelNamespace		= "v3";
 	// CF Mapping
-	this.cfmapping			= "v2";
+	this.cfmapping			= "v3";
 	// Auto-map models
 	this.autoMapModels		= true;
 	// Module Dependencies
